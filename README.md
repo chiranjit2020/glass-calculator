@@ -1,2 +1,2 @@
-# glass-calculator
+# Glassmorphism Calculator
  Glassmorphism Calculator using Vanilla JavaScript
