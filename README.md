@@ -1,5 +1,5 @@
 # Glassmorphism Calculator
- Glassmorphism Calculator using Vanilla JavaScript
+ Glassmorphism Calculator using Vanilla JavaScript and Tilt.js
 ***
 #### HTML
 ```html
